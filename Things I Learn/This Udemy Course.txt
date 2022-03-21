@@ -1,0 +1,21 @@
+Front-End:
+1) Html
+2) CSS
+3) Bootstrap
+4) JavaScript
+5) JQuery
+6) Unix Command Line
+
+Back-End:
+7) Node.js
+8) Express.js with Node.js
+9) Api
+10) Git, GitHub, Version Control
+11) Ejs
+12) DataBases
+13) Sql
+14) MongoDb
+15) Mangoose
+16) RestFul Api
+17) Authentication & Security
+18) React.js
