@@ -22,3 +22,7 @@ a {
     text-decoration: none;
     color: grey;
 }
+
+a:hover {
+    color: rgb(0, 0, 0);
+}
